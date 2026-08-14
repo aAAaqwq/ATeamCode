@@ -1,6 +1,7 @@
 # Product brief: verified agent-team coding
 
-Status: Draft — user and core promise confirmed; autonomy boundary pending.
+Status: Draft — target user and core promise are hypotheses; user validation
+and autonomy boundary are pending.
 
 No runtime, safety, recovery, replay, or undo capability described here has
 been implemented or validated.
@@ -54,7 +55,7 @@ forbidden to automatic execution.
 ## MVP non-goals
 
 - Loading every AGI Super Team role and Skill into every run
-- IDE, web console, remote multi-user operation, or marketplace
+- IDE extension, hosted web console, remote multi-user operation, or marketplace
 - Automatic commit, push, merge, PR, deployment, or credential use
 - Byte-for-byte deterministic model replay
 - Claims of zero defects or fully autonomous software delivery

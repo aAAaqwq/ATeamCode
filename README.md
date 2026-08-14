@@ -10,6 +10,12 @@ AGI Super Team role, Team, Skill, and Governor contracts.
 Research and architecture planning. No runtime or safety claims have been
 validated yet.
 
+Current direction: a local-first control plane with an `ateam` CLI and a visual
+Supervisor over one canonical run protocol. See the
+[five-agent benchmark](docs/research/0002-five-agent-architecture-benchmark.md),
+[proposed architecture](docs/architecture/0001-control-plane-and-supervisor.md),
+and [Supervisor experience brief](docs/product/0002-supervisor-experience-brief.md).
+
 ## Initial product promise
 
 Given a development goal in an existing repository, ATeam Code proposes the
